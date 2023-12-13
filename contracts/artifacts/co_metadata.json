@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "helo",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/increment.sol": "co"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/increment.sol": {
+			"keccak256": "0xd60c7e387e7b9843326af84748ab288aed5deade4d25e3b497ca59ccabcd8499",
+			"urls": [
+				"bzz-raw://bd1e0ccddc685a86763be0c0220eb35f6fd5286760ce7e2e421dce55126f1ca9",
+				"dweb:/ipfs/QmW7Xp1W9YENSgHTtz7Rye5nAB1xnkgS4RV5s7YJmp1qDP"
+			]
+		}
+	},
+	"version": 1
+}

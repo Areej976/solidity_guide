@@ -1,0 +1,12 @@
+Javascript is untyped language
+
+var a=1;
+var b="hello";
+var c= false;
+
+Solidity is typed language 
+
+int a=-1;
+uint b= 2;
+string c="hello";
+address xyz = nbkhewrhwekfjewlitrelt;

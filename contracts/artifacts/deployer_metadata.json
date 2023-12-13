@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "GetdeployerAccount",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/msg.sender.sol": "deployer"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/msg.sender.sol": {
+			"keccak256": "0x16f58cb8075b82f12c6275e4b1e8190a848a4e3174cb842fe7ee73e75a7189b5",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://d1277fd2516950d3f551a4414f62817d7d908d0881b918db05ca2532a2e2f34d",
+				"dweb:/ipfs/Qmc9b9bPDL3FMyEUxsT5wAZEeXN7WcJQPqfCxx9MvLd3th"
+			]
+		}
+	},
+	"version": 1
+}
